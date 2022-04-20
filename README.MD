@@ -15,6 +15,8 @@ Although these APIs can be consumed in any language/app, the instructions will a
 - [The Dog API](https://docs.thedogapi.com/api-reference/)
     - List available dog breeds, allow user to click through "pages" of data
     - Allow user to search for dog by breed
+- [News API](https://newsapi.org/) (Requires creating an account for a free API key)
+    - [Display the top headlines for your contry of choice](https://newsapi.org/docs/endpoints/top-headlines)
 
 
 ## Found another API?
